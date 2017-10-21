@@ -7,6 +7,7 @@ int main()
 
 	for( int i=0;i<10;i++)
 		cout<<endl<<"i"<<endl;
+	cout<<" Hi Harry "<<endl;
 
 return 0;
 }
